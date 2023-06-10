@@ -5,6 +5,7 @@
 	grid-template-columns:repeat(6,100px);
 }
 .item.item-1{
+	color: black;
 	background-color: red;
 }
 .item.item-2{
